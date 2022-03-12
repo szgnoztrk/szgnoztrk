@@ -12,9 +12,16 @@
 
 ## Languages and Tools:
 
-<img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="spring" width="40" height="40" />     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40" />
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" alt="spring" width="40" height="40" />     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" alt="Docker" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40" />
 
 ## Github Stats
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=szgnoztrk&show_icons=true&theme=synthwave" >
 </p>
+
+## Connect With Me
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" alt="sezgin-ozturk | LinkedIn" width="40px" align="left" />][linkedin]
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" alt="szgnoztrk@gmail.com | Gmail" width="40" align="left" />][gmail]
+
+[linkedin]: [https://www.linkedin.com/in/sezgin-ozturk/]
+[gmail]: [szgnoztrk@gmail.com]
