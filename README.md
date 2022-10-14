@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?color=602356&size=30&lines=Hi%F0%9F%91%8B%2C+I%27m+Sezgin+%C3%96zt%C3%BCrk">
 </h1>
 
-<h3 align="center"> 🤖 I'm Java RPA  Developer at AgeSA Hayat ve Emeklilik. </h3>
+<h3 align="center"> 🤖 I'm Java Developer at Türk Telekom. </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=szgnoztrk&label=Profile%20views&color=602356&style=flat" alt="mgungorr" /> </p>
 
 - 👨‍💻 I’m currently learning **Java, Spring Boot, React.js etc.**
