@@ -46,8 +46,8 @@
 </p>
 
 ## Connect With Me
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" alt="sezgin-ozturk | LinkedIn" width="40px" align="left" />][linkedin]
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" alt="szgnoztrk@gmail.com | Gmail" width="40" align="left" />][gmail]
+[<a href="http://linkedin.com/in/sezgin-ozturk" target="_blank" rel="noreferrer"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" alt="sezgin-ozturk | LinkedIn" width="40px" align="left" /></a> ][linkedin]
+[<a href="mailto:szgnoztrk@gmail.com" target="_blank" rel="noreferrer"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" alt="szgnoztrk@gmail.com | Gmail" width="40" align="left" /></a> ][gmail]
 
 <p align="right"> 
   <img src="https://github-readme-stats.vercel.app/api?username=szgnoztrk&show_icons=true&theme=synthwave" >
